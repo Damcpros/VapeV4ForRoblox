@@ -1,4 +1,3 @@
 # Vape V4
-**A script that I have maintained for 5 years, mostly known for bedwars.**
-
-I will not allow selling my code in any capacity, this mean's customs that profit off of my work.
+This script is by xylex, however the original roblox vape (xylex's)
+ is kind of dying, so this version will still update ig
